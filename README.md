@@ -1,6 +1,4 @@
-Sure, here's the README file based on the provided information:
 
----
 
 # Salon Appointment Management System
 
