@@ -26,9 +26,4 @@ To use the salon appointment management system, follow these steps:
 ## Contributing
 Contributions to enhance the system or address any issues are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to adjust the content as needed to better fit your project's specifics.
