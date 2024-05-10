@@ -13,10 +13,15 @@ This project is a salon appointment management system developed using bash progr
 ## Future Enhancements
 - **Scalability**: Plans are in place for future enhancements and scalability within the bash environment, ensuring the system can adapt to evolving needs.
 
+Certainly! Here's the updated section on how to clone the repository:
+
 ## Getting Started
 To use the salon appointment management system, follow these steps:
 1. Install PostgreSQL on your system if not already installed.
-2. Clone the repository to your local machine.
+2. Clone the repository to your local machine using the following command:
+    ```bash
+    git clone https://github.com/ashish-parjapat/salon-appointment-management.git
+    ```
 3. Run the bash script to start using the system.
 
 ## Usage
